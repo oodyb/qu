@@ -1,0 +1,552 @@
+[
+  {
+    "id": "CMPS301",
+    "name": "Blockchain Technology",
+    "category": [
+      "Programming"
+    ],
+    "description": "Sopor explicabo addo.",
+    "creditHours": 1,
+    "minStudents": 12,
+    "maxStudents": 19
+  },
+  {
+    "id": "CMPS302",
+    "name": "Cybersecurity Fundamentals",
+    "category": [
+      "Project"
+    ],
+    "description": "Cariosus utrimque cinis victoria curtus.",
+    "creditHours": 2,
+    "minStudents": 16,
+    "maxStudents": 29
+  },
+  {
+    "id": "CMPS303",
+    "name": "Machine Learning Basics",
+    "category": [
+      "Programming"
+    ],
+    "description": "Agnitio at tenax cumque uterque tenus sol thalassinus ipsa.",
+    "creditHours": 2,
+    "minStudents": 11,
+    "maxStudents": 16
+  },
+  {
+    "id": "CMPS304",
+    "name": "Machine Learning Basics II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Texo spero caritas.",
+    "creditHours": 2,
+    "minStudents": 14,
+    "maxStudents": 20
+  },
+  {
+    "id": "CMPS305",
+    "name": "Computer Graphics",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Tego absque ante utpote delicate.",
+    "creditHours": 2,
+    "minStudents": 15,
+    "maxStudents": 32
+  },
+  {
+    "id": "CMPS306",
+    "name": "Project Management",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Voluptatum votum concedo.",
+    "creditHours": 3,
+    "minStudents": 10,
+    "maxStudents": 18
+  },
+  {
+    "id": "CMPS307",
+    "name": "Advanced Java Programming",
+    "category": [
+      "Security"
+    ],
+    "description": "Cursim delibero tamisium tum atrocitas corpus averto cicuta.",
+    "creditHours": 4,
+    "minStudents": 20,
+    "maxStudents": 37
+  },
+  {
+    "id": "CMPS308",
+    "name": "Operating Systems",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Ustulo calcar voluptatem tristis theca.",
+    "creditHours": 4,
+    "minStudents": 15,
+    "maxStudents": 20
+  },
+  {
+    "id": "CMPS309",
+    "name": "Ethical Hacking",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Adeo confero aut valetudo.",
+    "creditHours": 4,
+    "minStudents": 13,
+    "maxStudents": 39
+  },
+  {
+    "id": "CMPS310",
+    "name": "Web Application Development",
+    "category": [
+      "Security"
+    ],
+    "description": "Vulnero timor apud termes arceo facere suasoria aro ambulo dolorum.",
+    "creditHours": 2,
+    "minStudents": 11,
+    "maxStudents": 25
+  },
+  {
+    "id": "CMPS311",
+    "name": "Embedded Systems",
+    "category": [
+      "Project"
+    ],
+    "description": "Abscido caries acceptus stipes ara.",
+    "creditHours": 3,
+    "minStudents": 5,
+    "maxStudents": 10
+  },
+  {
+    "id": "CMPS312",
+    "name": "Database Systems",
+    "category": [
+      "Project"
+    ],
+    "description": "Civis theca sto.",
+    "creditHours": 3,
+    "minStudents": 15,
+    "maxStudents": 39
+  },
+  {
+    "id": "CMPS313",
+    "name": "Advanced Java Programming II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Aufero sol decerno ab suasoria compono.",
+    "creditHours": 2,
+    "minStudents": 6,
+    "maxStudents": 32
+  },
+  {
+    "id": "CMPS314",
+    "name": "Advanced Java Programming III",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Eius auxilium catena vinco benevolentia aer advoco ea.",
+    "creditHours": 2,
+    "minStudents": 7,
+    "maxStudents": 36
+  },
+  {
+    "id": "CMPS315",
+    "name": "Big Data Analytics",
+    "category": [
+      "Programming"
+    ],
+    "description": "Depulso timidus capitulus maxime collum blanditiis.",
+    "creditHours": 2,
+    "minStudents": 15,
+    "maxStudents": 22
+  },
+  {
+    "id": "CMPS316",
+    "name": "Blockchain Technology II",
+    "category": [
+      "Programming"
+    ],
+    "description": "Patria ara civitas.",
+    "creditHours": 1,
+    "minStudents": 12,
+    "maxStudents": 27
+  },
+  {
+    "id": "CMPS317",
+    "name": "Big Data Analytics II",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Iure laudantium quidem carcer adulescens inventore correptius stella.",
+    "creditHours": 1,
+    "minStudents": 9,
+    "maxStudents": 38
+  },
+  {
+    "id": "CMPS318",
+    "name": "Natural Language Processing",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Laborum speciosus adulatio alius strues denuncio astrum.",
+    "creditHours": 4,
+    "minStudents": 18,
+    "maxStudents": 35
+  },
+  {
+    "id": "CMPS319",
+    "name": "Cybersecurity Fundamentals II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Calamitas placeat contabesco desparatus.",
+    "creditHours": 4,
+    "minStudents": 12,
+    "maxStudents": 35
+  },
+  {
+    "id": "CMPS320",
+    "name": "Artificial Intelligence",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Super caecus decens.",
+    "creditHours": 3,
+    "minStudents": 5,
+    "maxStudents": 38
+  },
+  {
+    "id": "CMPS321",
+    "name": "Machine Learning Basics III",
+    "category": [
+      "Security"
+    ],
+    "description": "Sui aestivus tantum provident spiritus artificiose asperiores subiungo confido.",
+    "creditHours": 3,
+    "minStudents": 5,
+    "maxStudents": 36
+  },
+  {
+    "id": "CMPS322",
+    "name": "Data Structures and Algorithms",
+    "category": [
+      "Security"
+    ],
+    "description": "Stipes compello derelinquo autem suscipio.",
+    "creditHours": 3,
+    "minStudents": 13,
+    "maxStudents": 28
+  },
+  {
+    "id": "CMPS323",
+    "name": "Project Management II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Quia careo amplus.",
+    "creditHours": 3,
+    "minStudents": 10,
+    "maxStudents": 40
+  },
+  {
+    "id": "CMPS324",
+    "name": "Ethical Hacking II",
+    "category": [
+      "Project"
+    ],
+    "description": "Complectus aequitas delinquo correptius tui aestivus cohaero absum articulus adsidue.",
+    "creditHours": 4,
+    "minStudents": 17,
+    "maxStudents": 39
+  },
+  {
+    "id": "CMPS325",
+    "name": "Blockchain Technology III",
+    "category": [
+      "Security"
+    ],
+    "description": "Depromo numquam amita cognomen.",
+    "creditHours": 4,
+    "minStudents": 20,
+    "maxStudents": 30
+  },
+  {
+    "id": "CMPS326",
+    "name": "Operating Systems II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Caries adhaero debitis valde ancilla pecto.",
+    "creditHours": 2,
+    "minStudents": 16,
+    "maxStudents": 22
+  },
+  {
+    "id": "CMPS327",
+    "name": "Web Application Development II",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Veritas vir trucido armarium itaque adsuesco claro.",
+    "creditHours": 2,
+    "minStudents": 12,
+    "maxStudents": 38
+  },
+  {
+    "id": "CMPS328",
+    "name": "Operating Systems III",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Ambulo tantillus sed conscendo uter autem delibero tunc aer ambitus.",
+    "creditHours": 3,
+    "minStudents": 19,
+    "maxStudents": 36
+  },
+  {
+    "id": "CMPS329",
+    "name": "Computer Graphics II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Corrigo libero coruscus clibanus clarus.",
+    "creditHours": 2,
+    "minStudents": 16,
+    "maxStudents": 34
+  },
+  {
+    "id": "CMPS330",
+    "name": "Database Systems II",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Certe amplexus laborum tempora.",
+    "creditHours": 1,
+    "minStudents": 6,
+    "maxStudents": 29
+  },
+  {
+    "id": "CMPS331",
+    "name": "Big Data Analytics III",
+    "category": [
+      "Security"
+    ],
+    "description": "Culpo timor eius cimentarius.",
+    "creditHours": 2,
+    "minStudents": 19,
+    "maxStudents": 35
+  },
+  {
+    "id": "CMPS332",
+    "name": "Artificial Intelligence II",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Benevolentia acies ambitus vestrum.",
+    "creditHours": 3,
+    "minStudents": 6,
+    "maxStudents": 17
+  },
+  {
+    "id": "CMPS333",
+    "name": "Database Systems III",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Thymum aro ipsum bene vobis comprehendo.",
+    "creditHours": 3,
+    "minStudents": 15,
+    "maxStudents": 27
+  },
+  {
+    "id": "CMPS334",
+    "name": "Introduction to Programming",
+    "category": [
+      "Security"
+    ],
+    "description": "Vetus degenero tonsor cervus vobis incidunt carpo.",
+    "creditHours": 2,
+    "minStudents": 18,
+    "maxStudents": 34
+  },
+  {
+    "id": "CMPS335",
+    "name": "Big Data Analytics IV",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Antepono depromo conitor adfero ubi aliquam arcus.",
+    "creditHours": 3,
+    "minStudents": 11,
+    "maxStudents": 17
+  },
+  {
+    "id": "CMPS336",
+    "name": "Cybersecurity Fundamentals III",
+    "category": [
+      "Project"
+    ],
+    "description": "Tamen solitudo tribuo vehemens aliquam validus.",
+    "creditHours": 3,
+    "minStudents": 9,
+    "maxStudents": 27
+  },
+  {
+    "id": "CMPS337",
+    "name": "Cybersecurity Fundamentals IV",
+    "category": [
+      "Programming"
+    ],
+    "description": "Tripudio voluptates argumentum.",
+    "creditHours": 3,
+    "minStudents": 7,
+    "maxStudents": 15
+  },
+  {
+    "id": "CMPS338",
+    "name": "Advanced Java Programming IV",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Caecus vinitor subiungo sapiente tepidus.",
+    "creditHours": 1,
+    "minStudents": 6,
+    "maxStudents": 30
+  },
+  {
+    "id": "CMPS339",
+    "name": "Blockchain Technology IV",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Porro complectus trepide.",
+    "creditHours": 3,
+    "minStudents": 7,
+    "maxStudents": 17
+  },
+  {
+    "id": "CMPS340",
+    "name": "Introduction to Programming II",
+    "category": [
+      "Project"
+    ],
+    "description": "Sperno ait despecto ver cibus arbustum.",
+    "creditHours": 3,
+    "minStudents": 18,
+    "maxStudents": 34
+  },
+  {
+    "id": "CMPS341",
+    "name": "Advanced Java Programming V",
+    "category": [
+      "Project"
+    ],
+    "description": "Defluo impedit ceno vigilo articulus vigor vulnero vitiosus.",
+    "creditHours": 2,
+    "minStudents": 15,
+    "maxStudents": 37
+  },
+  {
+    "id": "CMPS342",
+    "name": "Cloud Computing",
+    "category": [
+      "Programming"
+    ],
+    "description": "Totidem non vitiosus ustilo.",
+    "creditHours": 1,
+    "minStudents": 16,
+    "maxStudents": 25
+  },
+  {
+    "id": "CMPS343",
+    "name": "Operating Systems IV",
+    "category": [
+      "Programming"
+    ],
+    "description": "Vigor validus acceptus.",
+    "creditHours": 3,
+    "minStudents": 5,
+    "maxStudents": 37
+  },
+  {
+    "id": "CMPS344",
+    "name": "Operating Systems V",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Conculco repellat complectus vulgo decimus stips spargo temptatio.",
+    "creditHours": 3,
+    "minStudents": 17,
+    "maxStudents": 33
+  },
+  {
+    "id": "CMPS345",
+    "name": "Database Systems IV",
+    "category": [
+      "Security"
+    ],
+    "description": "Ustulo suus certe bardus.",
+    "creditHours": 2,
+    "minStudents": 19,
+    "maxStudents": 35
+  },
+  {
+    "id": "CMPS346",
+    "name": "Blockchain Technology V",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Cupio catena cunabula comis aeneus verbera capillus.",
+    "creditHours": 1,
+    "minStudents": 18,
+    "maxStudents": 37
+  },
+  {
+    "id": "CMPS347",
+    "name": "Big Data Analytics V",
+    "category": [
+      "Security"
+    ],
+    "description": "Acquiro deduco appositus quod laudantium verbum.",
+    "creditHours": 4,
+    "minStudents": 11,
+    "maxStudents": 18
+  },
+  {
+    "id": "CMPS348",
+    "name": "Operating Systems VI",
+    "category": [
+      "Programming"
+    ],
+    "description": "Soluta paulatim caecus cervus amo degero crastinus coruscus vespillo.",
+    "creditHours": 2,
+    "minStudents": 6,
+    "maxStudents": 28
+  },
+  {
+    "id": "CMPS349",
+    "name": "Advanced Java Programming VI",
+    "category": [
+      "Security"
+    ],
+    "description": "Attollo angustus sumptus torqueo adipisci vere quasi volva cibo administratio.",
+    "creditHours": 4,
+    "minStudents": 8,
+    "maxStudents": 13
+  },
+  {
+    "id": "CMPS350",
+    "name": "Ethical Hacking III",
+    "category": [
+      "Computing Systems"
+    ],
+    "description": "Statua caries approbo adnuo utrimque adaugeo ager tabesco sursum nostrum.",
+    "creditHours": 1,
+    "minStudents": 15,
+    "maxStudents": 22
+  }
+]

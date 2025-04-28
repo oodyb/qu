@@ -1,0 +1,299 @@
+.stu-container * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.stu-container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "header" "main" "footer";
+    font-family: 'Times New Roman', Times, serif;
+    background: #e8ecf3;
+    color: #333;
+    min-height: 100vh;
+}
+
+.stu-header {
+    grid-area: header;
+    padding: 1rem 14.75rem;
+    background: transparent;
+}
+
+.stu-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.stu-logo-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.stu-logo-img {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 25%;
+    overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.stu-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #2c2c2c;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+    display: inline-flex;
+    align-items: first baseline;
+    gap: 0.25rem;
+}
+
+.stu-subtitle {
+    color: #666;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.stu-nav {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.stu-nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.stu-nav-link {
+    text-decoration: none;
+    color: #333;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    transition: background 0.3s;
+}
+
+.stu-nav-link:hover {
+    background-color: #dcdcdc;
+}
+
+.stu-logout {
+    text-decoration: none;
+    background-color: rgb(50, 50, 50);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.stu-logout:hover {
+    background-color: red;
+}
+
+.stu-main {
+    grid-area: main;
+    display: flex;
+    justify-content: center;
+}
+
+.stu-courses-section {
+    width: 100%;
+    max-width: 1350px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.stu-bar {
+    display: flex;
+    flex-direction: column;
+}
+
+.stu-bar h2 {
+    margin-bottom: 1em;
+}
+
+.stu-search-bar {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: .5rem;
+}
+
+.stu-search-bar input {
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: text;
+}
+
+.stu-search-bar select {
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.stu-courses-container {
+    overflow-x: auto;
+}
+
+.stu-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.stu-table th,
+.stu-table td {
+    padding: 1.25rem;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.stu-table th {
+    background-color: #f4f4f4;
+    color: #222;
+    font-size: 1rem;
+}
+
+.stu-class-dropdown {
+    padding: 0.35rem;
+    background-color: #f4f4f4;
+    border-radius: 9.5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.stu-table td {
+    font-size: 0.95rem;
+}
+
+.stu-table tr:hover {
+    background-color: #f0f0f0;
+}
+
+.stu-register-button-container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.stu-btn-register {
+    background-color: #28a745;
+    color: white;
+    padding: 0.535rem 0.95rem;
+    font-size: .85rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.stu-btn-register:hover {
+    background-color: rgb(226, 59, 171);
+}
+
+.stu-footer {
+    grid-area: footer;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.85rem;
+    color: #666;
+}
+
+.registered-label {
+    background-color: #eaeaea;
+    color: #1b9a39;
+    padding: 0.4rem 1rem;
+    border-radius: 9px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.stu-class-label {
+    background-color: #eaeaea;
+    color: #1b9a39;
+    padding: 0.4rem 1rem;
+    border-radius: 9px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Modal rules */
+.stu-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.stu-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.stu-modal {
+    background: white;
+    padding: 2rem;
+    border-radius: 20px;
+    width: 900px;
+    max-width: 90%;
+    max-height: 90%;
+    overflow-y: auto;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.stu-table {
+    width: 100%;
+    min-width: 800px;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.stu-close-btn {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #999;
+}
+
+.stu-close-btn:hover {
+    color: #000;
+}
+
+.stu-username-badge {
+    background-color: #4caf50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}

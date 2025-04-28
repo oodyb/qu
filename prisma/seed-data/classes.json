@@ -1,0 +1,3882 @@
+[
+  {
+    "id": "L001",
+    "courseId": "CMPS301",
+    "instructorId": null,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C338"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L002",
+    "courseId": "CMPS301",
+    "instructorId": null,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A336"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L003",
+    "courseId": "CMPS301",
+    "instructorId": null,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C357"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L004",
+    "courseId": "CMPS301",
+    "instructorId": 201800490,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A308"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L005",
+    "courseId": "CMPS301",
+    "instructorId": 201800492,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "C398"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L006",
+    "courseId": "CMPS302",
+    "instructorId": 201800465,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A276"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L007",
+    "courseId": "CMPS302",
+    "instructorId": null,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B308"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L008",
+    "courseId": "CMPS302",
+    "instructorId": 201800485,
+    "capacity": 27,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C246"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L009",
+    "courseId": "CMPS302",
+    "instructorId": 201800485,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B167"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L010",
+    "courseId": "CMPS302",
+    "instructorId": 201800475,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "B316"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L011",
+    "courseId": "CMPS303",
+    "instructorId": 201800455,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "B345"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L012",
+    "courseId": "CMPS303",
+    "instructorId": null,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A159"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L013",
+    "courseId": "CMPS303",
+    "instructorId": 201800497,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B367"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L014",
+    "courseId": "CMPS303",
+    "instructorId": 201800495,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B334"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L015",
+    "courseId": "CMPS303",
+    "instructorId": 201800485,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B389"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L016",
+    "courseId": "CMPS304",
+    "instructorId": null,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B248"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L017",
+    "courseId": "CMPS304",
+    "instructorId": 201800481,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B201"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L018",
+    "courseId": "CMPS304",
+    "instructorId": null,
+    "capacity": 27,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "C307"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L019",
+    "courseId": "CMPS304",
+    "instructorId": null,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B157"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L020",
+    "courseId": "CMPS304",
+    "instructorId": 201800450,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A392"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L021",
+    "courseId": "CMPS305",
+    "instructorId": 201800497,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C329"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L022",
+    "courseId": "CMPS305",
+    "instructorId": 201800481,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A194"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L023",
+    "courseId": "CMPS305",
+    "instructorId": null,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B149"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L024",
+    "courseId": "CMPS305",
+    "instructorId": 201800497,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A365"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L025",
+    "courseId": "CMPS305",
+    "instructorId": 201800454,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A108"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L026",
+    "courseId": "CMPS306",
+    "instructorId": null,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C232"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L027",
+    "courseId": "CMPS306",
+    "instructorId": 201800459,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C122"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L028",
+    "courseId": "CMPS306",
+    "instructorId": 201800473,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C377"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L029",
+    "courseId": "CMPS306",
+    "instructorId": 201800475,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C186"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L030",
+    "courseId": "CMPS306",
+    "instructorId": 201800462,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C193"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L031",
+    "courseId": "CMPS307",
+    "instructorId": 201800456,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A255"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L032",
+    "courseId": "CMPS307",
+    "instructorId": null,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "A215"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L033",
+    "courseId": "CMPS307",
+    "instructorId": 201800460,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A362"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L034",
+    "courseId": "CMPS307",
+    "instructorId": 201800453,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C284"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L035",
+    "courseId": "CMPS307",
+    "instructorId": 201800463,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C370"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L036",
+    "courseId": "CMPS308",
+    "instructorId": 201800475,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B238"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L037",
+    "courseId": "CMPS308",
+    "instructorId": 201800461,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C378"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L038",
+    "courseId": "CMPS308",
+    "instructorId": null,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C224"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L039",
+    "courseId": "CMPS308",
+    "instructorId": 201800451,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A259"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L040",
+    "courseId": "CMPS308",
+    "instructorId": 201800473,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A157"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L041",
+    "courseId": "CMPS309",
+    "instructorId": 201800465,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C225"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L042",
+    "courseId": "CMPS309",
+    "instructorId": null,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "A370"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L043",
+    "courseId": "CMPS309",
+    "instructorId": 201800463,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C292"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L044",
+    "courseId": "CMPS309",
+    "instructorId": 201800497,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C204"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L045",
+    "courseId": "CMPS309",
+    "instructorId": 201800487,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B324"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L046",
+    "courseId": "CMPS310",
+    "instructorId": 201800458,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C262"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L047",
+    "courseId": "CMPS310",
+    "instructorId": null,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B166"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L048",
+    "courseId": "CMPS310",
+    "instructorId": null,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A377"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L049",
+    "courseId": "CMPS310",
+    "instructorId": 201800456,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A138"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L050",
+    "courseId": "CMPS310",
+    "instructorId": 201800464,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B121"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L051",
+    "courseId": "CMPS311",
+    "instructorId": 201800480,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "B393"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L052",
+    "courseId": "CMPS311",
+    "instructorId": 201800495,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "B118"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L053",
+    "courseId": "CMPS311",
+    "instructorId": 201800486,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B196"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L054",
+    "courseId": "CMPS311",
+    "instructorId": 201800462,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "B275"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L055",
+    "courseId": "CMPS311",
+    "instructorId": 201800474,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A129"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L056",
+    "courseId": "CMPS312",
+    "instructorId": 201800460,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "B164"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L057",
+    "courseId": "CMPS312",
+    "instructorId": 201800473,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B202"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L058",
+    "courseId": "CMPS312",
+    "instructorId": 201800465,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B216"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L059",
+    "courseId": "CMPS312",
+    "instructorId": 201800459,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "A166"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L060",
+    "courseId": "CMPS312",
+    "instructorId": 201800483,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B399"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L061",
+    "courseId": "CMPS313",
+    "instructorId": 201800495,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A166"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L062",
+    "courseId": "CMPS313",
+    "instructorId": 201800463,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A246"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L063",
+    "courseId": "CMPS313",
+    "instructorId": 201800458,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A120"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L064",
+    "courseId": "CMPS313",
+    "instructorId": 201800455,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A328"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L065",
+    "courseId": "CMPS313",
+    "instructorId": 201800451,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "B274"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L066",
+    "courseId": "CMPS314",
+    "instructorId": null,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C335"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L067",
+    "courseId": "CMPS314",
+    "instructorId": 201800487,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A139"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L068",
+    "courseId": "CMPS314",
+    "instructorId": 201800489,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A338"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L069",
+    "courseId": "CMPS314",
+    "instructorId": 201800489,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B380"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L070",
+    "courseId": "CMPS314",
+    "instructorId": 201800474,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C199"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L071",
+    "courseId": "CMPS315",
+    "instructorId": 201800493,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C183"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L072",
+    "courseId": "CMPS315",
+    "instructorId": null,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C317"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L073",
+    "courseId": "CMPS315",
+    "instructorId": 201800471,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A132"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L074",
+    "courseId": "CMPS315",
+    "instructorId": 201800474,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B253"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L075",
+    "courseId": "CMPS315",
+    "instructorId": 201800493,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C164"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L076",
+    "courseId": "CMPS316",
+    "instructorId": 201800495,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B264"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L077",
+    "courseId": "CMPS316",
+    "instructorId": 201800490,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "B310"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L078",
+    "courseId": "CMPS316",
+    "instructorId": 201800485,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "B185"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L079",
+    "courseId": "CMPS316",
+    "instructorId": 201800488,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "B194"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L080",
+    "courseId": "CMPS316",
+    "instructorId": 201800477,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C330"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L081",
+    "courseId": "CMPS317",
+    "instructorId": 201800462,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B319"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L082",
+    "courseId": "CMPS317",
+    "instructorId": 201800475,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C342"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L083",
+    "courseId": "CMPS317",
+    "instructorId": 201800496,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C292"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L084",
+    "courseId": "CMPS317",
+    "instructorId": 201800456,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "A103"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L085",
+    "courseId": "CMPS317",
+    "instructorId": 201800479,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "B254"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L086",
+    "courseId": "CMPS318",
+    "instructorId": null,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "A299"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L087",
+    "courseId": "CMPS318",
+    "instructorId": 201800452,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "B176"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L088",
+    "courseId": "CMPS318",
+    "instructorId": 201800491,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A189"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L089",
+    "courseId": "CMPS318",
+    "instructorId": 201800487,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B120"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L090",
+    "courseId": "CMPS318",
+    "instructorId": 201800479,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B239"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L091",
+    "courseId": "CMPS319",
+    "instructorId": null,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A222"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L092",
+    "courseId": "CMPS319",
+    "instructorId": 201800487,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C292"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L093",
+    "courseId": "CMPS319",
+    "instructorId": 201800472,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B138"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L094",
+    "courseId": "CMPS319",
+    "instructorId": 201800455,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B274"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L095",
+    "courseId": "CMPS319",
+    "instructorId": 201800470,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "C219"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L096",
+    "courseId": "CMPS320",
+    "instructorId": 201800491,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "B176"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L097",
+    "courseId": "CMPS320",
+    "instructorId": 201800475,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A374"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L098",
+    "courseId": "CMPS320",
+    "instructorId": null,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A203"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L099",
+    "courseId": "CMPS320",
+    "instructorId": 201800494,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C211"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L100",
+    "courseId": "CMPS320",
+    "instructorId": 201800480,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "A307"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L101",
+    "courseId": "CMPS321",
+    "instructorId": 201800463,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C252"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L102",
+    "courseId": "CMPS321",
+    "instructorId": 201800454,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C191"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L103",
+    "courseId": "CMPS321",
+    "instructorId": 201800453,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C379"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L104",
+    "courseId": "CMPS321",
+    "instructorId": 201800450,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B120"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L105",
+    "courseId": "CMPS321",
+    "instructorId": 201800463,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C140"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L106",
+    "courseId": "CMPS322",
+    "instructorId": null,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C261"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L107",
+    "courseId": "CMPS322",
+    "instructorId": 201800494,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A277"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L108",
+    "courseId": "CMPS322",
+    "instructorId": 201800463,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B154"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L109",
+    "courseId": "CMPS322",
+    "instructorId": 201800477,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C305"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L110",
+    "courseId": "CMPS322",
+    "instructorId": null,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B248"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L111",
+    "courseId": "CMPS323",
+    "instructorId": null,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "B384"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L112",
+    "courseId": "CMPS323",
+    "instructorId": 201800495,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B258"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L113",
+    "courseId": "CMPS323",
+    "instructorId": 201800474,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C131"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L114",
+    "courseId": "CMPS323",
+    "instructorId": null,
+    "capacity": 27,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C164"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L115",
+    "courseId": "CMPS323",
+    "instructorId": 201800473,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B294"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L116",
+    "courseId": "CMPS324",
+    "instructorId": 201800476,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B216"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L117",
+    "courseId": "CMPS324",
+    "instructorId": 201800480,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A212"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L118",
+    "courseId": "CMPS324",
+    "instructorId": 201800483,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A205"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L119",
+    "courseId": "CMPS324",
+    "instructorId": null,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A149"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L120",
+    "courseId": "CMPS324",
+    "instructorId": 201800470,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B157"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L121",
+    "courseId": "CMPS325",
+    "instructorId": 201800492,
+    "capacity": 27,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C203"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L122",
+    "courseId": "CMPS325",
+    "instructorId": 201800464,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B335"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L123",
+    "courseId": "CMPS325",
+    "instructorId": 201800461,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B194"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L124",
+    "courseId": "CMPS325",
+    "instructorId": null,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "A291"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L125",
+    "courseId": "CMPS325",
+    "instructorId": 201800492,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B231"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L126",
+    "courseId": "CMPS326",
+    "instructorId": null,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A170"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L127",
+    "courseId": "CMPS326",
+    "instructorId": 201800463,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C336"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L128",
+    "courseId": "CMPS326",
+    "instructorId": 201800452,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C324"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L129",
+    "courseId": "CMPS326",
+    "instructorId": null,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A253"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L130",
+    "courseId": "CMPS326",
+    "instructorId": 201800485,
+    "capacity": 27,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B130"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L131",
+    "courseId": "CMPS327",
+    "instructorId": 201800467,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C244"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L132",
+    "courseId": "CMPS327",
+    "instructorId": 201800476,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A305"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L133",
+    "courseId": "CMPS327",
+    "instructorId": 201800480,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "C303"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L134",
+    "courseId": "CMPS327",
+    "instructorId": 201800496,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B329"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L135",
+    "courseId": "CMPS327",
+    "instructorId": 201800485,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A319"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L136",
+    "courseId": "CMPS328",
+    "instructorId": 201800487,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "A240"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L137",
+    "courseId": "CMPS328",
+    "instructorId": 201800494,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "C229"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L138",
+    "courseId": "CMPS328",
+    "instructorId": 201800488,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B257"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L139",
+    "courseId": "CMPS328",
+    "instructorId": 201800482,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A166"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L140",
+    "courseId": "CMPS328",
+    "instructorId": 201800460,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A309"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L141",
+    "courseId": "CMPS329",
+    "instructorId": null,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "C229"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L142",
+    "courseId": "CMPS329",
+    "instructorId": 201800463,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A159"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L143",
+    "courseId": "CMPS329",
+    "instructorId": 201800490,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C255"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L144",
+    "courseId": "CMPS329",
+    "instructorId": 201800495,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C127"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L145",
+    "courseId": "CMPS329",
+    "instructorId": 201800495,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B210"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L146",
+    "courseId": "CMPS330",
+    "instructorId": null,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A230"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L147",
+    "courseId": "CMPS330",
+    "instructorId": null,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C384"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L148",
+    "courseId": "CMPS330",
+    "instructorId": null,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B268"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L149",
+    "courseId": "CMPS330",
+    "instructorId": 201800473,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "B205"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L150",
+    "courseId": "CMPS330",
+    "instructorId": 201800453,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C224"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L151",
+    "courseId": "CMPS331",
+    "instructorId": 201800481,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B268"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L152",
+    "courseId": "CMPS331",
+    "instructorId": 201800493,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "C166"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L153",
+    "courseId": "CMPS331",
+    "instructorId": 201800461,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C232"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L154",
+    "courseId": "CMPS331",
+    "instructorId": null,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B251"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L155",
+    "courseId": "CMPS331",
+    "instructorId": null,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B143"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L156",
+    "courseId": "CMPS332",
+    "instructorId": null,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B100"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L157",
+    "courseId": "CMPS332",
+    "instructorId": 201800476,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B285"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L158",
+    "courseId": "CMPS332",
+    "instructorId": 201800482,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B352"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L159",
+    "courseId": "CMPS332",
+    "instructorId": 201800471,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B316"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L160",
+    "courseId": "CMPS332",
+    "instructorId": 201800452,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C345"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L161",
+    "courseId": "CMPS333",
+    "instructorId": 201800470,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "B244"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L162",
+    "courseId": "CMPS333",
+    "instructorId": 201800450,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C389"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L163",
+    "courseId": "CMPS333",
+    "instructorId": 201800495,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C204"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L164",
+    "courseId": "CMPS333",
+    "instructorId": 201800465,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A265"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L165",
+    "courseId": "CMPS333",
+    "instructorId": 201800475,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A362"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L166",
+    "courseId": "CMPS334",
+    "instructorId": 201800468,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C223"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L167",
+    "courseId": "CMPS334",
+    "instructorId": null,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B290"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L168",
+    "courseId": "CMPS334",
+    "instructorId": 201800493,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "B134"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L169",
+    "courseId": "CMPS334",
+    "instructorId": 201800482,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "B242"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L170",
+    "courseId": "CMPS334",
+    "instructorId": 201800479,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B235"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L171",
+    "courseId": "CMPS335",
+    "instructorId": 201800453,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B142"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L172",
+    "courseId": "CMPS335",
+    "instructorId": 201800458,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "A340"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L173",
+    "courseId": "CMPS335",
+    "instructorId": 201800475,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A276"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L174",
+    "courseId": "CMPS335",
+    "instructorId": 201800467,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B341"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L175",
+    "courseId": "CMPS335",
+    "instructorId": 201800483,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C154"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L176",
+    "courseId": "CMPS336",
+    "instructorId": 201800489,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B267"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L177",
+    "courseId": "CMPS336",
+    "instructorId": 201800454,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A240"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L178",
+    "courseId": "CMPS336",
+    "instructorId": 201800454,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A145"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L179",
+    "courseId": "CMPS336",
+    "instructorId": null,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B104"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L180",
+    "courseId": "CMPS336",
+    "instructorId": 201800480,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B175"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L181",
+    "courseId": "CMPS337",
+    "instructorId": 201800485,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B370"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L182",
+    "courseId": "CMPS337",
+    "instructorId": null,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A279"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L183",
+    "courseId": "CMPS337",
+    "instructorId": 201800496,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B230"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L184",
+    "courseId": "CMPS337",
+    "instructorId": null,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C101"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L185",
+    "courseId": "CMPS337",
+    "instructorId": 201800476,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C233"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L186",
+    "courseId": "CMPS338",
+    "instructorId": 201800468,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A253"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L187",
+    "courseId": "CMPS338",
+    "instructorId": 201800485,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "C151"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L188",
+    "courseId": "CMPS338",
+    "instructorId": 201800462,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B239"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L189",
+    "courseId": "CMPS338",
+    "instructorId": 201800496,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C231"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L190",
+    "courseId": "CMPS338",
+    "instructorId": 201800451,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C166"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L191",
+    "courseId": "CMPS339",
+    "instructorId": null,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C113"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L192",
+    "courseId": "CMPS339",
+    "instructorId": 201800494,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "A237"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L193",
+    "courseId": "CMPS339",
+    "instructorId": 201800472,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "C245"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L194",
+    "courseId": "CMPS339",
+    "instructorId": null,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C193"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L195",
+    "courseId": "CMPS339",
+    "instructorId": 201800453,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A196"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L196",
+    "courseId": "CMPS340",
+    "instructorId": 201800461,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "B191"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L197",
+    "courseId": "CMPS340",
+    "instructorId": 201800458,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C107"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L198",
+    "courseId": "CMPS340",
+    "instructorId": 201800456,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B365"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L199",
+    "courseId": "CMPS340",
+    "instructorId": 201800479,
+    "capacity": 27,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "C202"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L200",
+    "courseId": "CMPS340",
+    "instructorId": 201800490,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "B195"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L201",
+    "courseId": "CMPS341",
+    "instructorId": 201800471,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "B305"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L202",
+    "courseId": "CMPS341",
+    "instructorId": 201800485,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A197"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L203",
+    "courseId": "CMPS341",
+    "instructorId": 201800455,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B194"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L204",
+    "courseId": "CMPS341",
+    "instructorId": 201800485,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "B177"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L205",
+    "courseId": "CMPS341",
+    "instructorId": 201800463,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B211"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L206",
+    "courseId": "CMPS342",
+    "instructorId": 201800454,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A389"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L207",
+    "courseId": "CMPS342",
+    "instructorId": 201800466,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B318"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L208",
+    "courseId": "CMPS342",
+    "instructorId": null,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A209"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L209",
+    "courseId": "CMPS342",
+    "instructorId": 201800466,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "B222"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L210",
+    "courseId": "CMPS342",
+    "instructorId": 201800469,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C234"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L211",
+    "courseId": "CMPS343",
+    "instructorId": 201800463,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B203"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L212",
+    "courseId": "CMPS343",
+    "instructorId": 201800491,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B347"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L213",
+    "courseId": "CMPS343",
+    "instructorId": 201800465,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C326"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L214",
+    "courseId": "CMPS343",
+    "instructorId": null,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "C214"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L215",
+    "courseId": "CMPS343",
+    "instructorId": null,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "C280"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L216",
+    "courseId": "CMPS344",
+    "instructorId": 201800457,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A291"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L217",
+    "courseId": "CMPS344",
+    "instructorId": 201800483,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B304"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L218",
+    "courseId": "CMPS344",
+    "instructorId": 201800467,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "A353"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L219",
+    "courseId": "CMPS344",
+    "instructorId": 201800473,
+    "capacity": 13,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C313"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L220",
+    "courseId": "CMPS344",
+    "instructorId": null,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C142"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L221",
+    "courseId": "CMPS345",
+    "instructorId": 201800479,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "C329"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L222",
+    "courseId": "CMPS345",
+    "instructorId": 201800465,
+    "capacity": 14,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "A281"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L223",
+    "courseId": "CMPS345",
+    "instructorId": 201800469,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C308"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L224",
+    "courseId": "CMPS345",
+    "instructorId": 201800470,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B195"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L225",
+    "courseId": "CMPS345",
+    "instructorId": 201800485,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Monday",
+        "Thursday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A230"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L226",
+    "courseId": "CMPS346",
+    "instructorId": 201800474,
+    "capacity": 29,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C397"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L227",
+    "courseId": "CMPS346",
+    "instructorId": 201800451,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "B158"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L228",
+    "courseId": "CMPS346",
+    "instructorId": 201800456,
+    "capacity": 16,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B189"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L229",
+    "courseId": "CMPS346",
+    "instructorId": 201800465,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B335"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L230",
+    "courseId": "CMPS346",
+    "instructorId": 201800451,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "B314"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L231",
+    "courseId": "CMPS347",
+    "instructorId": 201800468,
+    "capacity": 26,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "C215"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L232",
+    "courseId": "CMPS347",
+    "instructorId": null,
+    "capacity": 10,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B222"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L233",
+    "courseId": "CMPS347",
+    "instructorId": 201800478,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "10:00 - 10:50",
+      "room": "B184"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L234",
+    "courseId": "CMPS347",
+    "instructorId": 201800471,
+    "capacity": 21,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "17:00 - 17:50",
+      "room": "B204"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L235",
+    "courseId": "CMPS347",
+    "instructorId": 201800469,
+    "capacity": 19,
+    "schedule": {
+      "day": [
+        "Tuesday",
+        "Monday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "C183"
+    },
+    "status": "OPEN"
+  },
+  {
+    "id": "L236",
+    "courseId": "CMPS348",
+    "instructorId": 201800482,
+    "capacity": 17,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "C296"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L237",
+    "courseId": "CMPS348",
+    "instructorId": 201800480,
+    "capacity": 12,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "A326"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L238",
+    "courseId": "CMPS348",
+    "instructorId": null,
+    "capacity": 28,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C145"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L239",
+    "courseId": "CMPS348",
+    "instructorId": null,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A289"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L240",
+    "courseId": "CMPS348",
+    "instructorId": 201800479,
+    "capacity": 20,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "B164"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L241",
+    "courseId": "CMPS349",
+    "instructorId": 201800482,
+    "capacity": 25,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A391"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L242",
+    "courseId": "CMPS349",
+    "instructorId": null,
+    "capacity": 23,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "12:00 - 12:50",
+      "room": "A143"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L243",
+    "courseId": "CMPS349",
+    "instructorId": 201800450,
+    "capacity": 22,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "09:00 - 09:50",
+      "room": "B166"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L244",
+    "courseId": "CMPS349",
+    "instructorId": null,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "16:00 - 16:50",
+      "room": "C236"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L245",
+    "courseId": "CMPS349",
+    "instructorId": 201800481,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A125"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L246",
+    "courseId": "CMPS350",
+    "instructorId": 201800471,
+    "capacity": 11,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "08:00 - 08:50",
+      "room": "A322"
+    },
+    "status": "COMPLETED"
+  },
+  {
+    "id": "L247",
+    "courseId": "CMPS350",
+    "instructorId": 201800452,
+    "capacity": 18,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "15:00 - 15:50",
+      "room": "A334"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L248",
+    "courseId": "CMPS350",
+    "instructorId": 201800471,
+    "capacity": 24,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "13:00 - 13:50",
+      "room": "C203"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L249",
+    "courseId": "CMPS350",
+    "instructorId": 201800483,
+    "capacity": 15,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "14:00 - 14:50",
+      "room": "A106"
+    },
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "L250",
+    "courseId": "CMPS350",
+    "instructorId": 201800450,
+    "capacity": 30,
+    "schedule": {
+      "day": [
+        "Wednesday",
+        "Tuesday"
+      ],
+      "time": "11:00 - 11:50",
+      "room": "A281"
+    },
+    "status": "COMPLETED"
+  }
+]

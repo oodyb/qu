@@ -1,0 +1,90 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "./client"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          Int          @id
+  name        String
+  username    String       @unique
+  password    String
+  role        Role
+  enrollments Enrollment[]
+  teachings   Class[]      @relation("InstructorTeaching")
+  Preference  Preference[]
+}
+
+model Course {
+  id            String       @id
+  name          String
+  category      Json
+  description   String
+  creditHours   Int
+  minStudents   Int
+  maxStudents   Int
+  prerequisites Course[]     @relation("CoursePrereqs")
+  requiredBy    Course[]     @relation("CoursePrereqs")
+  classes       Class[]
+  Preference    Preference[]
+}
+
+model Class {
+  id           String
+  course       Course       @relation(fields: [courseId], references: [id])
+  courseId     String
+  instructor   User?        @relation("InstructorTeaching", fields: [instructorId], references: [id])
+  instructorId Int?
+  capacity     Int
+  schedule     Json?
+  status       Status
+  enrollments  Enrollment[]
+  Preference   Preference[]
+
+  @@id([id, courseId])
+}
+
+model Enrollment {
+  id        Int     @id @default(autoincrement())
+  student   User    @relation(fields: [studentId], references: [id])
+  studentId Int
+  class     Class   @relation(fields: [classId, courseId], references: [id, courseId])
+  classId   String
+  courseId  String
+  grade     String?
+}
+
+model Preference {
+  id           Int  @id @default(autoincrement())
+  instructor   User @relation(fields: [instructorId], references: [id])
+  instructorId Int
+
+  class    Class?  @relation(fields: [classId, courseId], references: [id, courseId])
+  classId  String?
+  courseId String?
+
+  note      String?
+  createdAt DateTime @default(now())
+  Course    Course?  @relation(fields: [courseId], references: [id])
+
+  @@unique([instructorId, courseId])
+}
+
+enum Role {
+  STUDENT
+  INSTRUCTOR
+  ADMIN
+}
+
+enum Status {
+  OPEN
+  IN_PROGRESS
+  COMPLETED
+}

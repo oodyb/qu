@@ -1,0 +1,5582 @@
+[
+  {
+    "studentId": 201800000,
+    "classId": "L068",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800000,
+    "classId": "L075",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800000,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800001,
+    "classId": "L038",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800002,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800003,
+    "classId": "L121",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800003,
+    "classId": "L240",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800004,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800006,
+    "classId": "L152",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800006,
+    "classId": "L176",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800007,
+    "classId": "L222",
+    "courseId": "CMPS345",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800007,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800008,
+    "classId": "L169",
+    "courseId": "CMPS334",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800008,
+    "classId": "L204",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800009,
+    "classId": "L120",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800009,
+    "classId": "L022",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800010,
+    "classId": "L169",
+    "courseId": "CMPS334",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800011,
+    "classId": "L087",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800012,
+    "classId": "L148",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800012,
+    "classId": "L073",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800012,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800012,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800014,
+    "classId": "L030",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800014,
+    "classId": "L072",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800015,
+    "classId": "L231",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800015,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800015,
+    "classId": "L186",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800015,
+    "classId": "L042",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800016,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800016,
+    "classId": "L162",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800017,
+    "classId": "L086",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800017,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800018,
+    "classId": "L074",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800018,
+    "classId": "L196",
+    "courseId": "CMPS340",
+    "grade": null
+  },
+  {
+    "studentId": 201800018,
+    "classId": "L044",
+    "courseId": "CMPS309",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800018,
+    "classId": "L016",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800020,
+    "classId": "L245",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800020,
+    "classId": "L214",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800020,
+    "classId": "L150",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800021,
+    "classId": "L059",
+    "courseId": "CMPS312",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800021,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800022,
+    "classId": "L028",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800022,
+    "classId": "L210",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800022,
+    "classId": "L035",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800022,
+    "classId": "L158",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800023,
+    "classId": "L049",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800023,
+    "classId": "L202",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800026,
+    "classId": "L021",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800026,
+    "classId": "L098",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800026,
+    "classId": "L187",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800027,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800027,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800028,
+    "classId": "L016",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800028,
+    "classId": "L063",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800028,
+    "classId": "L142",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800028,
+    "classId": "L025",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800029,
+    "classId": "L189",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800029,
+    "classId": "L041",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800029,
+    "classId": "L176",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800030,
+    "classId": "L211",
+    "courseId": "CMPS343",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800030,
+    "classId": "L046",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800031,
+    "classId": "L023",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800032,
+    "classId": "L166",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800032,
+    "classId": "L010",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800032,
+    "classId": "L231",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800034,
+    "classId": "L039",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800034,
+    "classId": "L087",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800034,
+    "classId": "L047",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800035,
+    "classId": "L155",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800038,
+    "classId": "L172",
+    "courseId": "CMPS335",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800039,
+    "classId": "L210",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800040,
+    "classId": "L048",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800040,
+    "classId": "L029",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800041,
+    "classId": "L209",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800041,
+    "classId": "L225",
+    "courseId": "CMPS345",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800041,
+    "classId": "L035",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800042,
+    "classId": "L234",
+    "courseId": "CMPS347",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800042,
+    "classId": "L040",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800042,
+    "classId": "L037",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800042,
+    "classId": "L087",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800043,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800043,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800043,
+    "classId": "L131",
+    "courseId": "CMPS327",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800043,
+    "classId": "L245",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800045,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800046,
+    "classId": "L153",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800046,
+    "classId": "L202",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800046,
+    "classId": "L087",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800046,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800047,
+    "classId": "L141",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800048,
+    "classId": "L073",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800048,
+    "classId": "L163",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800048,
+    "classId": "L223",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800049,
+    "classId": "L224",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800049,
+    "classId": "L014",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800049,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800049,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800050,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800051,
+    "classId": "L234",
+    "courseId": "CMPS347",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800051,
+    "classId": "L071",
+    "courseId": "CMPS315",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800051,
+    "classId": "L169",
+    "courseId": "CMPS334",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800051,
+    "classId": "L167",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800052,
+    "classId": "L036",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800052,
+    "classId": "L089",
+    "courseId": "CMPS318",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800053,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800053,
+    "classId": "L168",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800053,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800054,
+    "classId": "L101",
+    "courseId": "CMPS321",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800054,
+    "classId": "L189",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800055,
+    "classId": "L117",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800055,
+    "classId": "L178",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800055,
+    "classId": "L114",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800056,
+    "classId": "L074",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800056,
+    "classId": "L185",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800056,
+    "classId": "L027",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800057,
+    "classId": "L197",
+    "courseId": "CMPS340",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800058,
+    "classId": "L202",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800058,
+    "classId": "L199",
+    "courseId": "CMPS340",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800059,
+    "classId": "L084",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800059,
+    "classId": "L076",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800059,
+    "classId": "L191",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800061,
+    "classId": "L193",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800062,
+    "classId": "L199",
+    "courseId": "CMPS340",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800063,
+    "classId": "L082",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800064,
+    "classId": "L203",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800065,
+    "classId": "L055",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800065,
+    "classId": "L232",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800066,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800066,
+    "classId": "L066",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800066,
+    "classId": "L125",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800066,
+    "classId": "L002",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800068,
+    "classId": "L168",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800068,
+    "classId": "L234",
+    "courseId": "CMPS347",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800069,
+    "classId": "L102",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800071,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800071,
+    "classId": "L043",
+    "courseId": "CMPS309",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800071,
+    "classId": "L037",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800071,
+    "classId": "L006",
+    "courseId": "CMPS302",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800073,
+    "classId": "L161",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800074,
+    "classId": "L001",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800074,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800074,
+    "classId": "L111",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800075,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800075,
+    "classId": "L214",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800075,
+    "classId": "L051",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800076,
+    "classId": "L165",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800076,
+    "classId": "L182",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800078,
+    "classId": "L050",
+    "courseId": "CMPS310",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800078,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800078,
+    "classId": "L069",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800078,
+    "classId": "L099",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800079,
+    "classId": "L017",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800079,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800079,
+    "classId": "L011",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800079,
+    "classId": "L158",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800080,
+    "classId": "L051",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800081,
+    "classId": "L146",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800081,
+    "classId": "L205",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800081,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800081,
+    "classId": "L060",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800083,
+    "classId": "L145",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800083,
+    "classId": "L094",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800083,
+    "classId": "L023",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800083,
+    "classId": "L032",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800085,
+    "classId": "L110",
+    "courseId": "CMPS322",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800085,
+    "classId": "L002",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800085,
+    "classId": "L142",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800085,
+    "classId": "L047",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800086,
+    "classId": "L050",
+    "courseId": "CMPS310",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800086,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800086,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800086,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800087,
+    "classId": "L114",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800088,
+    "classId": "L036",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800088,
+    "classId": "L234",
+    "courseId": "CMPS347",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800088,
+    "classId": "L088",
+    "courseId": "CMPS318",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800089,
+    "classId": "L203",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800089,
+    "classId": "L045",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800089,
+    "classId": "L138",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800089,
+    "classId": "L024",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800090,
+    "classId": "L088",
+    "courseId": "CMPS318",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800090,
+    "classId": "L076",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800091,
+    "classId": "L027",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800091,
+    "classId": "L138",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800091,
+    "classId": "L016",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800092,
+    "classId": "L180",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800094,
+    "classId": "L188",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800095,
+    "classId": "L091",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800095,
+    "classId": "L048",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800095,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800095,
+    "classId": "L083",
+    "courseId": "CMPS317",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800096,
+    "classId": "L249",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800097,
+    "classId": "L197",
+    "courseId": "CMPS340",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800097,
+    "classId": "L245",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800099,
+    "classId": "L207",
+    "courseId": "CMPS342",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800099,
+    "classId": "L050",
+    "courseId": "CMPS310",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800101,
+    "classId": "L043",
+    "courseId": "CMPS309",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800102,
+    "classId": "L119",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800102,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800102,
+    "classId": "L054",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800103,
+    "classId": "L014",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800105,
+    "classId": "L114",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800105,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800105,
+    "classId": "L200",
+    "courseId": "CMPS340",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800105,
+    "classId": "L159",
+    "courseId": "CMPS332",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800106,
+    "classId": "L062",
+    "courseId": "CMPS313",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800106,
+    "classId": "L231",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800106,
+    "classId": "L140",
+    "courseId": "CMPS328",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800107,
+    "classId": "L132",
+    "courseId": "CMPS327",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800107,
+    "classId": "L217",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800108,
+    "classId": "L094",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800108,
+    "classId": "L026",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800109,
+    "classId": "L250",
+    "courseId": "CMPS350",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800109,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800109,
+    "classId": "L033",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800109,
+    "classId": "L052",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800110,
+    "classId": "L227",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800111,
+    "classId": "L198",
+    "courseId": "CMPS340",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800112,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800112,
+    "classId": "L089",
+    "courseId": "CMPS318",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800112,
+    "classId": "L069",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800112,
+    "classId": "L207",
+    "courseId": "CMPS342",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800114,
+    "classId": "L171",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800114,
+    "classId": "L240",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800115,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800115,
+    "classId": "L080",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800115,
+    "classId": "L072",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800117,
+    "classId": "L021",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800117,
+    "classId": "L157",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800118,
+    "classId": "L090",
+    "courseId": "CMPS318",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800119,
+    "classId": "L127",
+    "courseId": "CMPS326",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800119,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800119,
+    "classId": "L012",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800119,
+    "classId": "L032",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800121,
+    "classId": "L202",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800121,
+    "classId": "L022",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800122,
+    "classId": "L028",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800122,
+    "classId": "L061",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800122,
+    "classId": "L073",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800123,
+    "classId": "L124",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800123,
+    "classId": "L135",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800123,
+    "classId": "L104",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800125,
+    "classId": "L127",
+    "courseId": "CMPS326",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800125,
+    "classId": "L071",
+    "courseId": "CMPS315",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800125,
+    "classId": "L120",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800126,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800127,
+    "classId": "L147",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800129,
+    "classId": "L249",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800130,
+    "classId": "L171",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800130,
+    "classId": "L020",
+    "courseId": "CMPS304",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800130,
+    "classId": "L111",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800130,
+    "classId": "L026",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800131,
+    "classId": "L078",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800131,
+    "classId": "L187",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800133,
+    "classId": "L022",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800134,
+    "classId": "L088",
+    "courseId": "CMPS318",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800134,
+    "classId": "L143",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800134,
+    "classId": "L102",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800134,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800135,
+    "classId": "L093",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800135,
+    "classId": "L172",
+    "courseId": "CMPS335",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800135,
+    "classId": "L039",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800135,
+    "classId": "L010",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800136,
+    "classId": "L189",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800136,
+    "classId": "L053",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800136,
+    "classId": "L090",
+    "courseId": "CMPS318",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800138,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800139,
+    "classId": "L234",
+    "courseId": "CMPS347",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800139,
+    "classId": "L225",
+    "courseId": "CMPS345",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800139,
+    "classId": "L181",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800140,
+    "classId": "L142",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800141,
+    "classId": "L218",
+    "courseId": "CMPS344",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800141,
+    "classId": "L109",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800141,
+    "classId": "L209",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800142,
+    "classId": "L141",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800142,
+    "classId": "L092",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800142,
+    "classId": "L013",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800142,
+    "classId": "L159",
+    "courseId": "CMPS332",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800143,
+    "classId": "L225",
+    "courseId": "CMPS345",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800143,
+    "classId": "L184",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800143,
+    "classId": "L235",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800144,
+    "classId": "L085",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800144,
+    "classId": "L083",
+    "courseId": "CMPS317",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800144,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800144,
+    "classId": "L098",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800145,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800145,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800145,
+    "classId": "L157",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800145,
+    "classId": "L095",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800146,
+    "classId": "L080",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800146,
+    "classId": "L096",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800146,
+    "classId": "L097",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800146,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800147,
+    "classId": "L089",
+    "courseId": "CMPS318",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800147,
+    "classId": "L229",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800148,
+    "classId": "L191",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800148,
+    "classId": "L230",
+    "courseId": "CMPS346",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800148,
+    "classId": "L224",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800148,
+    "classId": "L164",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800149,
+    "classId": "L041",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800150,
+    "classId": "L194",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800151,
+    "classId": "L223",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800151,
+    "classId": "L121",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800152,
+    "classId": "L130",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800152,
+    "classId": "L174",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800153,
+    "classId": "L241",
+    "courseId": "CMPS349",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800154,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800154,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800154,
+    "classId": "L148",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800154,
+    "classId": "L226",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800155,
+    "classId": "L069",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800155,
+    "classId": "L065",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800155,
+    "classId": "L035",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800155,
+    "classId": "L038",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800156,
+    "classId": "L146",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800156,
+    "classId": "L009",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800157,
+    "classId": "L120",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800157,
+    "classId": "L024",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800157,
+    "classId": "L229",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800158,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800159,
+    "classId": "L081",
+    "courseId": "CMPS317",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800159,
+    "classId": "L036",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800160,
+    "classId": "L150",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800160,
+    "classId": "L074",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800161,
+    "classId": "L165",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800162,
+    "classId": "L087",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800162,
+    "classId": "L235",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800163,
+    "classId": "L155",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800163,
+    "classId": "L082",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800165,
+    "classId": "L245",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800165,
+    "classId": "L134",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800165,
+    "classId": "L124",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800166,
+    "classId": "L107",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800166,
+    "classId": "L014",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800169,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800170,
+    "classId": "L033",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800170,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800171,
+    "classId": "L172",
+    "courseId": "CMPS335",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800171,
+    "classId": "L206",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800172,
+    "classId": "L194",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800172,
+    "classId": "L159",
+    "courseId": "CMPS332",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800172,
+    "classId": "L040",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800172,
+    "classId": "L235",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800173,
+    "classId": "L056",
+    "courseId": "CMPS312",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800173,
+    "classId": "L085",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800173,
+    "classId": "L211",
+    "courseId": "CMPS343",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800174,
+    "classId": "L242",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800175,
+    "classId": "L065",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800176,
+    "classId": "L043",
+    "courseId": "CMPS309",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800176,
+    "classId": "L226",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800176,
+    "classId": "L203",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800177,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800177,
+    "classId": "L241",
+    "courseId": "CMPS349",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800177,
+    "classId": "L019",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800177,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800178,
+    "classId": "L017",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800180,
+    "classId": "L143",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800180,
+    "classId": "L166",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800180,
+    "classId": "L076",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800180,
+    "classId": "L218",
+    "courseId": "CMPS344",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800181,
+    "classId": "L063",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800181,
+    "classId": "L214",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800181,
+    "classId": "L104",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800182,
+    "classId": "L226",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800182,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800183,
+    "classId": "L084",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800184,
+    "classId": "L243",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800184,
+    "classId": "L047",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800184,
+    "classId": "L134",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800186,
+    "classId": "L065",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800187,
+    "classId": "L033",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800188,
+    "classId": "L028",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800188,
+    "classId": "L222",
+    "courseId": "CMPS345",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800188,
+    "classId": "L111",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800189,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800190,
+    "classId": "L247",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800191,
+    "classId": "L219",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800191,
+    "classId": "L174",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800191,
+    "classId": "L240",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800192,
+    "classId": "L195",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800194,
+    "classId": "L197",
+    "courseId": "CMPS340",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800194,
+    "classId": "L067",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800194,
+    "classId": "L040",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800194,
+    "classId": "L001",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800196,
+    "classId": "L188",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800196,
+    "classId": "L038",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800196,
+    "classId": "L041",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800197,
+    "classId": "L006",
+    "courseId": "CMPS302",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800197,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800197,
+    "classId": "L185",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800198,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800198,
+    "classId": "L062",
+    "courseId": "CMPS313",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800201,
+    "classId": "L198",
+    "courseId": "CMPS340",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800201,
+    "classId": "L244",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800201,
+    "classId": "L071",
+    "courseId": "CMPS315",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800201,
+    "classId": "L100",
+    "courseId": "CMPS320",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800202,
+    "classId": "L104",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800202,
+    "classId": "L142",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800202,
+    "classId": "L182",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800203,
+    "classId": "L105",
+    "courseId": "CMPS321",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800203,
+    "classId": "L132",
+    "courseId": "CMPS327",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800203,
+    "classId": "L164",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800204,
+    "classId": "L151",
+    "courseId": "CMPS331",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800204,
+    "classId": "L218",
+    "courseId": "CMPS344",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800204,
+    "classId": "L028",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800204,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800205,
+    "classId": "L079",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800205,
+    "classId": "L154",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800205,
+    "classId": "L057",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800206,
+    "classId": "L095",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800206,
+    "classId": "L201",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800206,
+    "classId": "L221",
+    "courseId": "CMPS345",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800207,
+    "classId": "L186",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800207,
+    "classId": "L093",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800208,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800209,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800209,
+    "classId": "L127",
+    "courseId": "CMPS326",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800210,
+    "classId": "L054",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800210,
+    "classId": "L212",
+    "courseId": "CMPS343",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800210,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800211,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800212,
+    "classId": "L001",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800213,
+    "classId": "L211",
+    "courseId": "CMPS343",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800213,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800213,
+    "classId": "L049",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800213,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800214,
+    "classId": "L162",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800214,
+    "classId": "L181",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800216,
+    "classId": "L111",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800216,
+    "classId": "L157",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800216,
+    "classId": "L066",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800217,
+    "classId": "L130",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800217,
+    "classId": "L139",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800217,
+    "classId": "L187",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800217,
+    "classId": "L153",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800219,
+    "classId": "L078",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800220,
+    "classId": "L048",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800220,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800220,
+    "classId": "L086",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800220,
+    "classId": "L242",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800221,
+    "classId": "L248",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800221,
+    "classId": "L006",
+    "courseId": "CMPS302",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800221,
+    "classId": "L249",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800221,
+    "classId": "L109",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800222,
+    "classId": "L023",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800222,
+    "classId": "L125",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800223,
+    "classId": "L144",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800223,
+    "classId": "L096",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800223,
+    "classId": "L046",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800224,
+    "classId": "L007",
+    "courseId": "CMPS302",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800224,
+    "classId": "L091",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800224,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800224,
+    "classId": "L010",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800225,
+    "classId": "L174",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800226,
+    "classId": "L226",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800226,
+    "classId": "L062",
+    "courseId": "CMPS313",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800226,
+    "classId": "L064",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800227,
+    "classId": "L029",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800227,
+    "classId": "L223",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800228,
+    "classId": "L040",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800228,
+    "classId": "L214",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800229,
+    "classId": "L198",
+    "courseId": "CMPS340",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800230,
+    "classId": "L129",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800230,
+    "classId": "L094",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800230,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800231,
+    "classId": "L088",
+    "courseId": "CMPS318",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800231,
+    "classId": "L223",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800232,
+    "classId": "L130",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800232,
+    "classId": "L135",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800232,
+    "classId": "L223",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800232,
+    "classId": "L122",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800234,
+    "classId": "L212",
+    "courseId": "CMPS343",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800234,
+    "classId": "L222",
+    "courseId": "CMPS345",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800235,
+    "classId": "L087",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800235,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800236,
+    "classId": "L204",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800236,
+    "classId": "L195",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800236,
+    "classId": "L001",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800238,
+    "classId": "L220",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800240,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800241,
+    "classId": "L041",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800241,
+    "classId": "L112",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800241,
+    "classId": "L044",
+    "courseId": "CMPS309",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800241,
+    "classId": "L180",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800242,
+    "classId": "L235",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800242,
+    "classId": "L158",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800242,
+    "classId": "L129",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800242,
+    "classId": "L007",
+    "courseId": "CMPS302",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800243,
+    "classId": "L150",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800244,
+    "classId": "L086",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800245,
+    "classId": "L111",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800245,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800245,
+    "classId": "L242",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800245,
+    "classId": "L063",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800246,
+    "classId": "L221",
+    "courseId": "CMPS345",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800246,
+    "classId": "L099",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800246,
+    "classId": "L206",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800247,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800247,
+    "classId": "L150",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800248,
+    "classId": "L217",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800248,
+    "classId": "L141",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800248,
+    "classId": "L116",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800250,
+    "classId": "L148",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800251,
+    "classId": "L098",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800251,
+    "classId": "L030",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800252,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800252,
+    "classId": "L167",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800252,
+    "classId": "L117",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800252,
+    "classId": "L188",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800253,
+    "classId": "L176",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800253,
+    "classId": "L069",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800254,
+    "classId": "L014",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800254,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800254,
+    "classId": "L075",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800255,
+    "classId": "L079",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800256,
+    "classId": "L209",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800256,
+    "classId": "L098",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800256,
+    "classId": "L049",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800256,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800257,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800257,
+    "classId": "L177",
+    "courseId": "CMPS336",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800257,
+    "classId": "L178",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800257,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800258,
+    "classId": "L110",
+    "courseId": "CMPS322",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800258,
+    "classId": "L071",
+    "courseId": "CMPS315",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800258,
+    "classId": "L225",
+    "courseId": "CMPS345",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800258,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800259,
+    "classId": "L049",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800259,
+    "classId": "L042",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800259,
+    "classId": "L048",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800259,
+    "classId": "L168",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800260,
+    "classId": "L232",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800261,
+    "classId": "L073",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800261,
+    "classId": "L049",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800262,
+    "classId": "L151",
+    "courseId": "CMPS331",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800262,
+    "classId": "L175",
+    "courseId": "CMPS335",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800262,
+    "classId": "L230",
+    "courseId": "CMPS346",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800263,
+    "classId": "L206",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800264,
+    "classId": "L151",
+    "courseId": "CMPS331",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800264,
+    "classId": "L176",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800264,
+    "classId": "L138",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800265,
+    "classId": "L120",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800265,
+    "classId": "L199",
+    "courseId": "CMPS340",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800265,
+    "classId": "L026",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800265,
+    "classId": "L010",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800266,
+    "classId": "L109",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800266,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800267,
+    "classId": "L195",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800267,
+    "classId": "L127",
+    "courseId": "CMPS326",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800267,
+    "classId": "L110",
+    "courseId": "CMPS322",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800268,
+    "classId": "L053",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800268,
+    "classId": "L022",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800268,
+    "classId": "L012",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800269,
+    "classId": "L168",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800269,
+    "classId": "L095",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800270,
+    "classId": "L036",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800271,
+    "classId": "L026",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800271,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800272,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800272,
+    "classId": "L045",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800272,
+    "classId": "L117",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800273,
+    "classId": "L027",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800273,
+    "classId": "L137",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800273,
+    "classId": "L250",
+    "courseId": "CMPS350",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800274,
+    "classId": "L037",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800274,
+    "classId": "L055",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800274,
+    "classId": "L028",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800274,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800275,
+    "classId": "L174",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800276,
+    "classId": "L006",
+    "courseId": "CMPS302",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800276,
+    "classId": "L076",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800276,
+    "classId": "L030",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800276,
+    "classId": "L007",
+    "courseId": "CMPS302",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800277,
+    "classId": "L188",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800277,
+    "classId": "L082",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800277,
+    "classId": "L091",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800277,
+    "classId": "L122",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800278,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800278,
+    "classId": "L092",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800278,
+    "classId": "L181",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800278,
+    "classId": "L227",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800279,
+    "classId": "L224",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800279,
+    "classId": "L107",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800279,
+    "classId": "L176",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800280,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800280,
+    "classId": "L116",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800280,
+    "classId": "L168",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800281,
+    "classId": "L228",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800281,
+    "classId": "L123",
+    "courseId": "CMPS325",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800281,
+    "classId": "L149",
+    "courseId": "CMPS330",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800283,
+    "classId": "L148",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800283,
+    "classId": "L157",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800284,
+    "classId": "L083",
+    "courseId": "CMPS317",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800285,
+    "classId": "L036",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800285,
+    "classId": "L026",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800285,
+    "classId": "L189",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800286,
+    "classId": "L227",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800287,
+    "classId": "L123",
+    "courseId": "CMPS325",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800287,
+    "classId": "L231",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800287,
+    "classId": "L161",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800287,
+    "classId": "L242",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800289,
+    "classId": "L238",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800289,
+    "classId": "L187",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800289,
+    "classId": "L038",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800289,
+    "classId": "L066",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800291,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800292,
+    "classId": "L182",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800293,
+    "classId": "L014",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800294,
+    "classId": "L003",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800294,
+    "classId": "L201",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800294,
+    "classId": "L132",
+    "courseId": "CMPS327",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800294,
+    "classId": "L175",
+    "courseId": "CMPS335",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800295,
+    "classId": "L043",
+    "courseId": "CMPS309",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800298,
+    "classId": "L012",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800298,
+    "classId": "L219",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800298,
+    "classId": "L043",
+    "courseId": "CMPS309",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800298,
+    "classId": "L146",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800300,
+    "classId": "L193",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800300,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800301,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800301,
+    "classId": "L035",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800301,
+    "classId": "L016",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800301,
+    "classId": "L038",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800302,
+    "classId": "L002",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800302,
+    "classId": "L125",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800302,
+    "classId": "L230",
+    "courseId": "CMPS346",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800302,
+    "classId": "L214",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800303,
+    "classId": "L049",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800303,
+    "classId": "L025",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800305,
+    "classId": "L111",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800305,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800307,
+    "classId": "L041",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800307,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800308,
+    "classId": "L101",
+    "courseId": "CMPS321",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800309,
+    "classId": "L077",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800310,
+    "classId": "L074",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800310,
+    "classId": "L195",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800311,
+    "classId": "L187",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800311,
+    "classId": "L131",
+    "courseId": "CMPS327",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800312,
+    "classId": "L110",
+    "courseId": "CMPS322",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800313,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800313,
+    "classId": "L032",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800314,
+    "classId": "L142",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800314,
+    "classId": "L027",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800315,
+    "classId": "L088",
+    "courseId": "CMPS318",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800317,
+    "classId": "L123",
+    "courseId": "CMPS325",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800317,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800317,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800318,
+    "classId": "L097",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800318,
+    "classId": "L034",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800318,
+    "classId": "L075",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800318,
+    "classId": "L053",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800319,
+    "classId": "L250",
+    "courseId": "CMPS350",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800320,
+    "classId": "L132",
+    "courseId": "CMPS327",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800321,
+    "classId": "L109",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800322,
+    "classId": "L051",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800322,
+    "classId": "L135",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800323,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800323,
+    "classId": "L096",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800324,
+    "classId": "L167",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800325,
+    "classId": "L186",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800326,
+    "classId": "L082",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800326,
+    "classId": "L107",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800327,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800327,
+    "classId": "L174",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800328,
+    "classId": "L102",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800328,
+    "classId": "L126",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800330,
+    "classId": "L129",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800330,
+    "classId": "L059",
+    "courseId": "CMPS312",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800331,
+    "classId": "L007",
+    "courseId": "CMPS302",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800331,
+    "classId": "L024",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800331,
+    "classId": "L057",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800332,
+    "classId": "L239",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800332,
+    "classId": "L191",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800335,
+    "classId": "L187",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800336,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800336,
+    "classId": "L202",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800336,
+    "classId": "L139",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800336,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800337,
+    "classId": "L053",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800337,
+    "classId": "L024",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800337,
+    "classId": "L230",
+    "courseId": "CMPS346",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800337,
+    "classId": "L241",
+    "courseId": "CMPS349",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800338,
+    "classId": "L037",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800338,
+    "classId": "L209",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800339,
+    "classId": "L138",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800339,
+    "classId": "L098",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800339,
+    "classId": "L096",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800340,
+    "classId": "L245",
+    "courseId": "CMPS349",
+    "grade": null
+  },
+  {
+    "studentId": 201800340,
+    "classId": "L171",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800342,
+    "classId": "L178",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800342,
+    "classId": "L083",
+    "courseId": "CMPS317",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800342,
+    "classId": "L151",
+    "courseId": "CMPS331",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800343,
+    "classId": "L040",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800345,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800345,
+    "classId": "L104",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800345,
+    "classId": "L193",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800346,
+    "classId": "L124",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800346,
+    "classId": "L093",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800347,
+    "classId": "L007",
+    "courseId": "CMPS302",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800348,
+    "classId": "L082",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800348,
+    "classId": "L106",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800349,
+    "classId": "L162",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800349,
+    "classId": "L074",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800349,
+    "classId": "L184",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800349,
+    "classId": "L014",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800350,
+    "classId": "L181",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800350,
+    "classId": "L137",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800350,
+    "classId": "L004",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800352,
+    "classId": "L021",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800354,
+    "classId": "L011",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800354,
+    "classId": "L145",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800354,
+    "classId": "L238",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800354,
+    "classId": "L068",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800355,
+    "classId": "L013",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800355,
+    "classId": "L143",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800355,
+    "classId": "L249",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800355,
+    "classId": "L102",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800356,
+    "classId": "L121",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800356,
+    "classId": "L132",
+    "courseId": "CMPS327",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800356,
+    "classId": "L120",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800356,
+    "classId": "L238",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800357,
+    "classId": "L223",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800357,
+    "classId": "L231",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800357,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800357,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800358,
+    "classId": "L158",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800358,
+    "classId": "L168",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800360,
+    "classId": "L022",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800360,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800361,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800362,
+    "classId": "L163",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800362,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800362,
+    "classId": "L050",
+    "courseId": "CMPS310",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800363,
+    "classId": "L241",
+    "courseId": "CMPS349",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800363,
+    "classId": "L118",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800364,
+    "classId": "L147",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800365,
+    "classId": "L072",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800365,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800365,
+    "classId": "L059",
+    "courseId": "CMPS312",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800366,
+    "classId": "L092",
+    "courseId": "CMPS319",
+    "grade": null
+  },
+  {
+    "studentId": 201800366,
+    "classId": "L036",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800366,
+    "classId": "L057",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800367,
+    "classId": "L196",
+    "courseId": "CMPS340",
+    "grade": null
+  },
+  {
+    "studentId": 201800367,
+    "classId": "L206",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800367,
+    "classId": "L103",
+    "courseId": "CMPS321",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800367,
+    "classId": "L141",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800368,
+    "classId": "L058",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800368,
+    "classId": "L130",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800369,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800370,
+    "classId": "L177",
+    "courseId": "CMPS336",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800370,
+    "classId": "L055",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800370,
+    "classId": "L217",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800371,
+    "classId": "L065",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800371,
+    "classId": "L090",
+    "courseId": "CMPS318",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800371,
+    "classId": "L029",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800372,
+    "classId": "L061",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800372,
+    "classId": "L151",
+    "courseId": "CMPS331",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800373,
+    "classId": "L235",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800373,
+    "classId": "L176",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800374,
+    "classId": "L211",
+    "courseId": "CMPS343",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800375,
+    "classId": "L031",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800376,
+    "classId": "L129",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800376,
+    "classId": "L034",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800376,
+    "classId": "L114",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800376,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800378,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800378,
+    "classId": "L193",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800379,
+    "classId": "L018",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800379,
+    "classId": "L019",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800379,
+    "classId": "L042",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800381,
+    "classId": "L042",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800381,
+    "classId": "L231",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800381,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800381,
+    "classId": "L236",
+    "courseId": "CMPS348",
+    "grade": null
+  },
+  {
+    "studentId": 201800382,
+    "classId": "L191",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800382,
+    "classId": "L180",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800383,
+    "classId": "L232",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800383,
+    "classId": "L141",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800383,
+    "classId": "L135",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800384,
+    "classId": "L085",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800384,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800384,
+    "classId": "L182",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800384,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800385,
+    "classId": "L057",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800385,
+    "classId": "L066",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800385,
+    "classId": "L013",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800385,
+    "classId": "L209",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800387,
+    "classId": "L199",
+    "courseId": "CMPS340",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800387,
+    "classId": "L234",
+    "courseId": "CMPS347",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800387,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800387,
+    "classId": "L145",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800388,
+    "classId": "L128",
+    "courseId": "CMPS326",
+    "grade": null
+  },
+  {
+    "studentId": 201800389,
+    "classId": "L003",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800391,
+    "classId": "L152",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800392,
+    "classId": "L145",
+    "courseId": "CMPS329",
+    "grade": null
+  },
+  {
+    "studentId": 201800392,
+    "classId": "L055",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800393,
+    "classId": "L123",
+    "courseId": "CMPS325",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800393,
+    "classId": "L102",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800393,
+    "classId": "L008",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800394,
+    "classId": "L183",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800394,
+    "classId": "L044",
+    "courseId": "CMPS309",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800394,
+    "classId": "L166",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800395,
+    "classId": "L177",
+    "courseId": "CMPS336",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800395,
+    "classId": "L089",
+    "courseId": "CMPS318",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800395,
+    "classId": "L179",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800397,
+    "classId": "L161",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800399,
+    "classId": "L198",
+    "courseId": "CMPS340",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800399,
+    "classId": "L090",
+    "courseId": "CMPS318",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800400,
+    "classId": "L206",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800400,
+    "classId": "L104",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800401,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800401,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800402,
+    "classId": "L012",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800402,
+    "classId": "L074",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800403,
+    "classId": "L248",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800403,
+    "classId": "L040",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800403,
+    "classId": "L084",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800404,
+    "classId": "L192",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800404,
+    "classId": "L122",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800405,
+    "classId": "L207",
+    "courseId": "CMPS342",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800405,
+    "classId": "L218",
+    "courseId": "CMPS344",
+    "grade": "F"
+  },
+  {
+    "studentId": 201800406,
+    "classId": "L230",
+    "courseId": "CMPS346",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800407,
+    "classId": "L086",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800408,
+    "classId": "L227",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800408,
+    "classId": "L177",
+    "courseId": "CMPS336",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800408,
+    "classId": "L150",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800408,
+    "classId": "L066",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800409,
+    "classId": "L170",
+    "courseId": "CMPS334",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800409,
+    "classId": "L110",
+    "courseId": "CMPS322",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800409,
+    "classId": "L173",
+    "courseId": "CMPS335",
+    "grade": null
+  },
+  {
+    "studentId": 201800409,
+    "classId": "L006",
+    "courseId": "CMPS302",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800410,
+    "classId": "L215",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800411,
+    "classId": "L089",
+    "courseId": "CMPS318",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800411,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800412,
+    "classId": "L155",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800412,
+    "classId": "L189",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800412,
+    "classId": "L004",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800413,
+    "classId": "L158",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800413,
+    "classId": "L156",
+    "courseId": "CMPS332",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800414,
+    "classId": "L041",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800414,
+    "classId": "L096",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800414,
+    "classId": "L147",
+    "courseId": "CMPS330",
+    "grade": null
+  },
+  {
+    "studentId": 201800415,
+    "classId": "L185",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800415,
+    "classId": "L010",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800415,
+    "classId": "L063",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800416,
+    "classId": "L076",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800416,
+    "classId": "L033",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800416,
+    "classId": "L116",
+    "courseId": "CMPS324",
+    "grade": null
+  },
+  {
+    "studentId": 201800416,
+    "classId": "L037",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800417,
+    "classId": "L109",
+    "courseId": "CMPS322",
+    "grade": null
+  },
+  {
+    "studentId": 201800417,
+    "classId": "L140",
+    "courseId": "CMPS328",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800417,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800418,
+    "classId": "L023",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800418,
+    "classId": "L018",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800418,
+    "classId": "L235",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800419,
+    "classId": "L077",
+    "courseId": "CMPS316",
+    "grade": null
+  },
+  {
+    "studentId": 201800419,
+    "classId": "L167",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800420,
+    "classId": "L121",
+    "courseId": "CMPS325",
+    "grade": null
+  },
+  {
+    "studentId": 201800420,
+    "classId": "L233",
+    "courseId": "CMPS347",
+    "grade": null
+  },
+  {
+    "studentId": 201800420,
+    "classId": "L068",
+    "courseId": "CMPS314",
+    "grade": null
+  },
+  {
+    "studentId": 201800421,
+    "classId": "L081",
+    "courseId": "CMPS317",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800421,
+    "classId": "L190",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800421,
+    "classId": "L154",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800422,
+    "classId": "L027",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800423,
+    "classId": "L045",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800424,
+    "classId": "L081",
+    "courseId": "CMPS317",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800425,
+    "classId": "L139",
+    "courseId": "CMPS328",
+    "grade": null
+  },
+  {
+    "studentId": 201800425,
+    "classId": "L227",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800425,
+    "classId": "L228",
+    "courseId": "CMPS346",
+    "grade": null
+  },
+  {
+    "studentId": 201800426,
+    "classId": "L044",
+    "courseId": "CMPS309",
+    "grade": "B"
+  },
+  {
+    "studentId": 201800427,
+    "classId": "L038",
+    "courseId": "CMPS308",
+    "grade": null
+  },
+  {
+    "studentId": 201800427,
+    "classId": "L072",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800427,
+    "classId": "L163",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800428,
+    "classId": "L073",
+    "courseId": "CMPS315",
+    "grade": null
+  },
+  {
+    "studentId": 201800428,
+    "classId": "L201",
+    "courseId": "CMPS341",
+    "grade": null
+  },
+  {
+    "studentId": 201800428,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800429,
+    "classId": "L114",
+    "courseId": "CMPS323",
+    "grade": null
+  },
+  {
+    "studentId": 201800429,
+    "classId": "L160",
+    "courseId": "CMPS332",
+    "grade": null
+  },
+  {
+    "studentId": 201800429,
+    "classId": "L059",
+    "courseId": "CMPS312",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800430,
+    "classId": "L027",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800431,
+    "classId": "L015",
+    "courseId": "CMPS303",
+    "grade": null
+  },
+  {
+    "studentId": 201800431,
+    "classId": "L021",
+    "courseId": "CMPS305",
+    "grade": null
+  },
+  {
+    "studentId": 201800431,
+    "classId": "L178",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800432,
+    "classId": "L064",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800433,
+    "classId": "L065",
+    "courseId": "CMPS313",
+    "grade": null
+  },
+  {
+    "studentId": 201800433,
+    "classId": "L010",
+    "courseId": "CMPS302",
+    "grade": null
+  },
+  {
+    "studentId": 201800433,
+    "classId": "L213",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800434,
+    "classId": "L055",
+    "courseId": "CMPS311",
+    "grade": null
+  },
+  {
+    "studentId": 201800434,
+    "classId": "L001",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800434,
+    "classId": "L097",
+    "courseId": "CMPS320",
+    "grade": null
+  },
+  {
+    "studentId": 201800434,
+    "classId": "L191",
+    "courseId": "CMPS339",
+    "grade": null
+  },
+  {
+    "studentId": 201800435,
+    "classId": "L104",
+    "courseId": "CMPS321",
+    "grade": null
+  },
+  {
+    "studentId": 201800435,
+    "classId": "L028",
+    "courseId": "CMPS306",
+    "grade": null
+  },
+  {
+    "studentId": 201800436,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "B+"
+  },
+  {
+    "studentId": 201800436,
+    "classId": "L182",
+    "courseId": "CMPS337",
+    "grade": null
+  },
+  {
+    "studentId": 201800436,
+    "classId": "L084",
+    "courseId": "CMPS317",
+    "grade": null
+  },
+  {
+    "studentId": 201800436,
+    "classId": "L248",
+    "courseId": "CMPS350",
+    "grade": null
+  },
+  {
+    "studentId": 201800437,
+    "classId": "L045",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800437,
+    "classId": "L155",
+    "courseId": "CMPS331",
+    "grade": null
+  },
+  {
+    "studentId": 201800437,
+    "classId": "L018",
+    "courseId": "CMPS304",
+    "grade": null
+  },
+  {
+    "studentId": 201800438,
+    "classId": "L190",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800438,
+    "classId": "L163",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800438,
+    "classId": "L164",
+    "courseId": "CMPS333",
+    "grade": null
+  },
+  {
+    "studentId": 201800439,
+    "classId": "L188",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800440,
+    "classId": "L108",
+    "courseId": "CMPS322",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800440,
+    "classId": "L169",
+    "courseId": "CMPS334",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800440,
+    "classId": "L007",
+    "courseId": "CMPS302",
+    "grade": "C+"
+  },
+  {
+    "studentId": 201800441,
+    "classId": "L179",
+    "courseId": "CMPS336",
+    "grade": null
+  },
+  {
+    "studentId": 201800441,
+    "classId": "L042",
+    "courseId": "CMPS309",
+    "grade": null
+  },
+  {
+    "studentId": 201800441,
+    "classId": "L132",
+    "courseId": "CMPS327",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800441,
+    "classId": "L035",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800442,
+    "classId": "L159",
+    "courseId": "CMPS332",
+    "grade": "D"
+  },
+  {
+    "studentId": 201800442,
+    "classId": "L033",
+    "courseId": "CMPS307",
+    "grade": null
+  },
+  {
+    "studentId": 201800442,
+    "classId": "L060",
+    "courseId": "CMPS312",
+    "grade": null
+  },
+  {
+    "studentId": 201800442,
+    "classId": "L186",
+    "courseId": "CMPS338",
+    "grade": null
+  },
+  {
+    "studentId": 201800443,
+    "classId": "L134",
+    "courseId": "CMPS327",
+    "grade": null
+  },
+  {
+    "studentId": 201800443,
+    "classId": "L048",
+    "courseId": "CMPS310",
+    "grade": null
+  },
+  {
+    "studentId": 201800443,
+    "classId": "L217",
+    "courseId": "CMPS344",
+    "grade": null
+  },
+  {
+    "studentId": 201800444,
+    "classId": "L246",
+    "courseId": "CMPS350",
+    "grade": "D+"
+  },
+  {
+    "studentId": 201800445,
+    "classId": "L214",
+    "courseId": "CMPS343",
+    "grade": null
+  },
+  {
+    "studentId": 201800445,
+    "classId": "L166",
+    "courseId": "CMPS334",
+    "grade": null
+  },
+  {
+    "studentId": 201800445,
+    "classId": "L206",
+    "courseId": "CMPS342",
+    "grade": null
+  },
+  {
+    "studentId": 201800446,
+    "classId": "L221",
+    "courseId": "CMPS345",
+    "grade": "A"
+  },
+  {
+    "studentId": 201800446,
+    "classId": "L218",
+    "courseId": "CMPS344",
+    "grade": "C"
+  },
+  {
+    "studentId": 201800446,
+    "classId": "L086",
+    "courseId": "CMPS318",
+    "grade": null
+  },
+  {
+    "studentId": 201800448,
+    "classId": "L003",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800448,
+    "classId": "L224",
+    "courseId": "CMPS345",
+    "grade": null
+  },
+  {
+    "studentId": 201800449,
+    "classId": "L005",
+    "courseId": "CMPS301",
+    "grade": null
+  },
+  {
+    "studentId": 201800449,
+    "classId": "L247",
+    "courseId": "CMPS350",
+    "grade": null
+  }
+]
