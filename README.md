@@ -9,7 +9,7 @@ npm install
 2. Run the development server:
 npm run dev
 
-4. Open http://localhost:3000 from your terminal to see the results.
+3. Open http://localhost:3000 from your terminal to see the results.
 
 Important Note! To successfully run the project you must add a `.env file to root folder filled with required keys. To acquire those keys, please contact me at:
  * alwaleed.b@hotmail.com
