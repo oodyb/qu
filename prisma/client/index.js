@@ -190,7 +190,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/oudi/Github/2-cmps350-project/project/course-management/prisma/client",
+      "value": "C:\\Users\\Lenovo\\Desktop\\SPRING 2025\\CMPS 350\\Project\\qu-app\\prisma\\client",
       "fromEnvVar": null
     },
     "config": {
@@ -199,12 +199,16 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "darwin-arm64",
+        "value": "windows",
         "native": true
+      },
+      {
+        "fromEnvVar": null,
+        "value": "windows"
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/Users/oudi/Github/2-cmps350-project/project/course-management/prisma/schema.prisma",
+    "sourceFilePath": "C:\\Users\\Lenovo\\Desktop\\SPRING 2025\\CMPS 350\\Project\\qu-app\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
@@ -218,16 +222,17 @@ const config = {
     "db"
   ],
   "activeProvider": "sqlite",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "file:./dev.db"
+        "value": null
       }
     }
   },
-  "inlineSchema": "// This is your Prisma schema file,\n// learn more about it in the docs: https://pris.ly/d/prisma-schema\n\ngenerator client {\n  provider = \"prisma-client-js\"\n  output   = \"./client\"\n}\n\ndatasource db {\n  provider = \"sqlite\"\n  url      = env(\"DATABASE_URL\")\n}\n\nmodel User {\n  id          Int          @id\n  name        String\n  username    String       @unique\n  password    String\n  role        Role\n  enrollments Enrollment[]\n  teachings   Class[]      @relation(\"InstructorTeaching\")\n  Preference  Preference[]\n}\n\nmodel Course {\n  id            String       @id\n  name          String\n  category      Json\n  description   String\n  creditHours   Int\n  minStudents   Int\n  maxStudents   Int\n  prerequisites Course[]     @relation(\"CoursePrereqs\")\n  requiredBy    Course[]     @relation(\"CoursePrereqs\")\n  classes       Class[]\n  Preference    Preference[]\n}\n\nmodel Class {\n  id           String\n  course       Course       @relation(fields: [courseId], references: [id])\n  courseId     String\n  instructor   User?        @relation(\"InstructorTeaching\", fields: [instructorId], references: [id])\n  instructorId Int?\n  capacity     Int\n  schedule     Json?\n  status       Status\n  enrollments  Enrollment[]\n  Preference   Preference[]\n\n  @@id([id, courseId])\n}\n\nmodel Enrollment {\n  id        Int     @id @default(autoincrement())\n  student   User    @relation(fields: [studentId], references: [id])\n  studentId Int\n  class     Class   @relation(fields: [classId, courseId], references: [id, courseId])\n  classId   String\n  courseId  String\n  grade     String?\n}\n\nmodel Preference {\n  id           Int  @id @default(autoincrement())\n  instructor   User @relation(fields: [instructorId], references: [id])\n  instructorId Int\n\n  class    Class?  @relation(fields: [classId, courseId], references: [id, courseId])\n  classId  String?\n  courseId String?\n\n  note      String?\n  createdAt DateTime @default(now())\n  Course    Course?  @relation(fields: [courseId], references: [id])\n\n  @@unique([instructorId, courseId])\n}\n\nenum Role {\n  STUDENT\n  INSTRUCTOR\n  ADMIN\n}\n\nenum Status {\n  OPEN\n  IN_PROGRESS\n  COMPLETED\n}\n",
-  "inlineSchemaHash": "822dd8d96c30695710c8426a160215932f822b8ed430ca42150f0c34b3c6262b",
+  "inlineSchema": "// This is your Prisma schema file,\n// learn more about it in the docs: https://pris.ly/d/prisma-schema\n\ngenerator client {\n  provider      = \"prisma-client-js\"\n  output        = \"./client\"\n  binaryTargets = [\"native\", \"windows\"]\n}\n\ndatasource db {\n  provider = \"sqlite\"\n  url      = env(\"DATABASE_URL\")\n}\n\nmodel User {\n  id          Int          @id\n  name        String\n  username    String       @unique\n  password    String\n  role        Role\n  enrollments Enrollment[]\n  teachings   Class[]      @relation(\"InstructorTeaching\")\n  Preference  Preference[]\n}\n\nmodel Course {\n  id            String       @id\n  name          String\n  category      Json\n  description   String\n  creditHours   Int\n  minStudents   Int\n  maxStudents   Int\n  prerequisites Course[]     @relation(\"CoursePrereqs\")\n  requiredBy    Course[]     @relation(\"CoursePrereqs\")\n  classes       Class[]\n  Preference    Preference[]\n}\n\nmodel Class {\n  id           String\n  course       Course       @relation(fields: [courseId], references: [id])\n  courseId     String\n  instructor   User?        @relation(\"InstructorTeaching\", fields: [instructorId], references: [id])\n  instructorId Int?\n  capacity     Int\n  schedule     Json?\n  status       Status\n  enrollments  Enrollment[]\n  Preference   Preference[]\n\n  @@id([id, courseId])\n}\n\nmodel Enrollment {\n  id        Int     @id @default(autoincrement())\n  student   User    @relation(fields: [studentId], references: [id])\n  studentId Int\n  class     Class   @relation(fields: [classId, courseId], references: [id, courseId])\n  classId   String\n  courseId  String\n  grade     String?\n}\n\nmodel Preference {\n  id           Int  @id @default(autoincrement())\n  instructor   User @relation(fields: [instructorId], references: [id])\n  instructorId Int\n\n  class    Class?  @relation(fields: [classId, courseId], references: [id, courseId])\n  classId  String?\n  courseId String?\n\n  note      String?\n  createdAt DateTime @default(now())\n  Course    Course?  @relation(fields: [courseId], references: [id])\n\n  @@unique([instructorId, courseId])\n}\n\nenum Role {\n  STUDENT\n  INSTRUCTOR\n  ADMIN\n}\n\nenum Status {\n  OPEN\n  IN_PROGRESS\n  COMPLETED\n}\n",
+  "inlineSchemaHash": "a31077983cfcbda2e551006154488c58bc9f55d59956d822fa2278e2c349bcae",
   "copyEngine": true
 }
 
@@ -266,8 +271,8 @@ exports.PrismaClient = PrismaClient
 Object.assign(exports, Prisma)
 
 // file annotations for bundling tools to include these files
-path.join(__dirname, "libquery_engine-darwin-arm64.dylib.node");
-path.join(process.cwd(), "prisma/client/libquery_engine-darwin-arm64.dylib.node")
+path.join(__dirname, "query_engine-windows.dll.node");
+path.join(process.cwd(), "prisma/client/query_engine-windows.dll.node")
 // file annotations for bundling tools to include these files
 path.join(__dirname, "schema.prisma");
 path.join(process.cwd(), "prisma/client/schema.prisma")
